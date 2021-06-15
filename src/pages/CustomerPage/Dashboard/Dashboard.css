@@ -1,0 +1,32 @@
+.sectiondashboard {
+  padding: 5rem 0 0 0;
+}
+
+.sectiondashboard .titre {
+  text-align: left;
+  margin-bottom: 5rem;
+  line-height: 3rem;
+}
+
+.sectiondashboard .titre h2 {
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+
+.sectiondashboard .titre span {
+  color: var(--grey2);
+}
+.sectionproducts ul {
+  padding: 1rem 0rem;
+  line-height: 2.5rem;
+}
+.sectiondashboard a {
+  background: var(--black);
+
+  padding: 0.8rem 4rem;
+  margin-right: 1rem;
+  margin-top: 2rem;
+  color: var(--white);
+  border-radius: 0.5rem;
+  font-size: 50%;
+}

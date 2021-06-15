@@ -1,0 +1,2 @@
+export const REQUEST_OFFLINE = "REQUEST_OFFLINE";
+export const CLEAR_REQUEST = "CLEAR_REQUEST";

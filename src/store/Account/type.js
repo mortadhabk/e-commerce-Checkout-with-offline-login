@@ -1,0 +1,3 @@
+export const ACCOUNT_ERROR = "ACCOUNT_ERROR";
+export const ACCOUNT_SUCCESS = "ACCOUNT_SUCCESS";
+export const LOAD_ACCOUNT = "LOAD_ACCOUNT";
